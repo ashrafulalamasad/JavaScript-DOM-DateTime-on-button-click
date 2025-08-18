@@ -8,6 +8,15 @@ A simple webpage created as a **university assignment** 🎓 that shows the curr
 
 <br> 
 
+## 👨‍💻 Developer
+**Ashraful Alam**  
+- 🎓 B.Sc. in Computer Science and Engineering  
+- 🏢 International Islamic University Chittagong (IIUC)  
+- 💻 Software engineering enthusiast exploring new technologies, building practical projects, and solving complex problems
+
+<br>
+
+
 ## 🚀 Features
 
 - 🎨 Gradient background with modern style  
@@ -24,12 +33,25 @@ A simple webpage created as a **university assignment** 🎓 that shows the curr
 
 <br> 
 
+## Live Website 🌐  
+👉 [Visit Live App](https://ashrafulalamasad.github.io/JavaScript-DOM-DateTime-on-button-click/)
+
+<br>
+
 ## 💻 Technologies Used
 
 - 🌐 HTML  
 - 🎨 CSS  
 - ⚙️ JavaScript  
 
----
+<br>
 
-Thanks for checking out my project! 🙌😊
+## 💬 Feedback
+Your feedback is highly appreciated!  
+- 🐞 Found a bug? Open an **issue**  
+- ✨ Have suggestions or ideas? Create a **pull request**  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ashrafulalam005/)
+
+
+
+
