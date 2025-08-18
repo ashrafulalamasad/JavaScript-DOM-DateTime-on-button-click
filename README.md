@@ -46,11 +46,11 @@ A simple webpage created as a **university assignment** 🎓 that shows the curr
 
 <br>
 
-## 💬 Feedback
-Your feedback is highly appreciated!  
+## 💬 Feedback  
+Your feedback is valuable!  
 - 🐞 Found a bug? Open an **issue**  
-- ✨ Have suggestions or ideas? Create a **pull request**  
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ashrafulalam005/)
+- ✨ Have suggestions? Create a **pull request**  
+- 📫 Want to connect? Reach me at [LinkedIn](https://www.linkedin.com/in/ashrafulalam005/) 
 
 
 
